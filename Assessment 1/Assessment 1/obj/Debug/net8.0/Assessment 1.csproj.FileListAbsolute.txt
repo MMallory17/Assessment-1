@@ -1,0 +1,5 @@
+C:\LearnToCode\Bootcamp-Labs\Assessment 1\Assessment 1\Assessment 1\obj\Debug\net8.0\Assessment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearnToCode\Bootcamp-Labs\Assessment 1\Assessment 1\Assessment 1\obj\Debug\net8.0\Assessment 1.AssemblyInfoInputs.cache
+C:\LearnToCode\Bootcamp-Labs\Assessment 1\Assessment 1\Assessment 1\obj\Debug\net8.0\Assessment 1.AssemblyInfo.cs
+C:\LearnToCode\Bootcamp-Labs\Assessment 1\Assessment 1\Assessment 1\obj\Debug\net8.0\Assessment 1.csproj.CoreCompileInputs.cache
+C:\LearnToCode\Bootcamp-Labs\Assessment 1\Assessment 1\Assessment 1\obj\Debug\net8.0\Assessment 1.sourcelink.json
